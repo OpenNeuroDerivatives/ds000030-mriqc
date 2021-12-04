@@ -1,1 +1,10 @@
-.git/annex/objects/qW/xv/MD5E-s355--36a8c70c994df55bf366125bc3df0e75.txt/MD5E-s355--36a8c70c994df55bf366125bc3df0e75.txt
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+**/.reproman* annex.largefiles=nothing
+*.tsv annex.largefiles=largerthan=40kb
+*.json annex.largefiles=largerthan=40kb
+*.bvec annex.largefiles=largerthan=40kb
+*.bval annex.largefiles=largerthan=40kb
+README annex.largefiles=nothing
+CHANGES annex.largefiles=nothing
+.bidsignore annex.largefiles=nothing
