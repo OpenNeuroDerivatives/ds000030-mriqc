@@ -1,1 +1,66 @@
-../../../../.git/annex/objects/5V/Xj/MD5E-s5024--dc25a3f4a94c8c84a81353e7332a34b2/MD5E-s5024--dc25a3f4a94c8c84a81353e7332a34b2
+Warning: Permanently added 'c101-191' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c102-162' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c116-061' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c116-151' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c124-143' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c124-144' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c126-022' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c126-023' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c135-061' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c135-062' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c135-112' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c135-113' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c147-082' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c147-083' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c154-114' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c154-121' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c154-194' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c154-201' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c190-031' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c190-032' (ED25519) to the list of known hosts.
+WARNING (12/03/21 23:18:07): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.3842452.hostlist.vzW53Tsi to get hosts
+starting job on c101-191
+starting job on c102-162
+starting job on c116-061
+starting job on c116-151
+starting job on c124-143
+starting job on c124-144
+starting job on c126-022
+starting job on c126-023
+starting job on c135-061
+starting job on c135-062
+starting job on c135-112
+starting job on c135-113
+starting job on c147-082
+starting job on c147-083
+starting job on c154-114
+starting job on c154-121
+starting job on c154-194
+starting job on c154-201
+starting job on c190-031
+starting job on c190-032
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+slurmstepd: error: *** JOB 3842452 ON c101-191 CANCELLED AT 2021-12-04T00:40:20 ***
+Terminated

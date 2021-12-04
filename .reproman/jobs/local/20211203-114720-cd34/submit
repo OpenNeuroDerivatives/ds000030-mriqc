@@ -1,1 +1,23 @@
-../../../../.git/annex/objects/G5/K5/MD5E-s853--0c4d76840d13f4d63e24ef4a7bb26aed/MD5E-s853--0c4d76840d13f4d63e24ef4a7bb26aed
+#!/bin/sh
+
+#SBATCH --output=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000030-mriqc/.reproman/jobs/local/20211203-114720-cd34/stdout
+#SBATCH --error=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000030-mriqc/.reproman/jobs/local/20211203-114720-cd34/stderr
+
+#SBATCH --nodes=20
+#SBATCH --ntasks=100
+#SBATCH --time=8:00:00
+#SBATCH --partition=normal
+
+metadir=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000030-mriqc/.reproman/jobs/local/20211203-114720-cd34
+
+module load launcher
+module load remora
+export LAUNCHER_JOB_FILE="$metadir/launcher"
+
+for task_id in $(seq 0 99); do
+    printf "$metadir/runscript %d >$metadir/stdout.%d 2>$metadir/stderr.%d\n" \
+      "$task_id" "$task_id" "$task_id" >>"$LAUNCHER_JOB_FILE"
+done
+
+export REMORA_TMPDIR="$STAGING"
+remora "$LAUNCHER_DIR"/paramrun
