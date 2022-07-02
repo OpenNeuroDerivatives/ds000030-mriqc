@@ -1,10 +1,0 @@
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz
-  0%|          | 0.00/451k [00:00<?, ?B/s] 19%|█▉        | 87.0k/451k [00:00<00:00, 666kB/s]100%|██████████| 451k/451k [00:00<00:00, 2.05MB/s]
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz
-  0%|          | 0.00/976k [00:00<?, ?B/s]  9%|▉         | 88.1k/976k [00:00<00:01, 659kB/s] 86%|████████▌ | 837k/976k [00:00<00:00, 897kB/s] 100%|██████████| 976k/976k [00:00<00:00, 3.60MB/s]
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-CSF_probseg.nii.gz
-  0%|          | 0.00/5.49M [00:00<?, ?B/s]  2%|▏         | 87.0k/5.49M [00:00<00:08, 635kB/s] 15%|█▍        | 801k/5.49M [00:00<00:05, 864kB/s]  64%|██████▍   | 3.54M/5.49M [00:00<00:01, 1.22MB/s]100%|██████████| 5.49M/5.49M [00:00<00:00, 12.4MB/s]
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-GM_probseg.nii.gz
-  0%|          | 0.00/7.57M [00:00<?, ?B/s]  1%|          | 87.0k/7.57M [00:00<00:11, 657kB/s] 11%|█         | 836k/7.57M [00:00<00:07, 896kB/s]  52%|█████▏    | 3.95M/7.57M [00:00<00:02, 1.26MB/s]100%|██████████| 7.57M/7.57M [00:00<00:00, 17.3MB/s]
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-WM_probseg.nii.gz
-  0%|          | 0.00/6.91M [00:00<?, ?B/s]  1%|          | 86.0k/6.91M [00:00<00:10, 646kB/s] 12%|█▏        | 852k/6.91M [00:00<00:06, 881kB/s]  58%|█████▊    | 4.00M/6.91M [00:00<00:02, 1.24MB/s] 98%|█████████▊| 6.80M/6.91M [00:00<00:00, 1.74MB/s]100%|██████████| 6.91M/6.91M [00:00<00:00, 14.6MB/s]
