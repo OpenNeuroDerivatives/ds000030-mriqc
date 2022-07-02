@@ -1,0 +1,12 @@
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-fMRIPrep_boldref.nii.gz
+  0%|          | 0.00/1.75M [00:00<?, ?B/s]  5%|▌         | 89.1k/1.75M [00:00<00:02, 649kB/s] 51%|█████     | 890k/1.75M [00:00<00:00, 880kB/s] 100%|██████████| 1.75M/1.75M [00:00<00:00, 5.18MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz
+  0%|          | 0.00/451k [00:00<?, ?B/s] 20%|█▉        | 89.1k/451k [00:00<00:00, 645kB/s]100%|██████████| 451k/451k [00:00<00:00, 1.95MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz
+  0%|          | 0.00/976k [00:00<?, ?B/s]  9%|▉         | 87.0k/976k [00:00<00:01, 663kB/s] 87%|████████▋ | 852k/976k [00:00<00:00, 904kB/s] 100%|██████████| 976k/976k [00:00<00:00, 3.67MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-CSF_probseg.nii.gz
+  0%|          | 0.00/5.49M [00:00<?, ?B/s]  2%|▏         | 87.0k/5.49M [00:00<00:08, 625kB/s]  8%|▊         | 453k/5.49M [00:00<00:06, 832kB/s]  30%|███       | 1.65M/5.49M [00:00<00:03, 1.15MB/s] 76%|███████▋  | 4.20M/5.49M [00:00<00:00, 1.56MB/s]100%|██████████| 5.49M/5.49M [00:00<00:00, 8.37MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-GM_probseg.nii.gz
+  0%|          | 0.00/7.57M [00:00<?, ?B/s]  1%|          | 77.8k/7.57M [00:00<00:10, 698kB/s]  6%|▌         | 426k/7.57M [00:00<00:07, 917kB/s]  33%|███▎      | 2.47M/7.57M [00:00<00:03, 1.29MB/s] 55%|█████▌    | 4.20M/7.57M [00:00<00:01, 1.73MB/s]100%|██████████| 7.57M/7.57M [00:00<00:00, 14.0MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-WM_probseg.nii.gz
+  0%|          | 0.00/6.91M [00:00<?, ?B/s]  1%|▏         | 87.0k/6.91M [00:00<00:09, 711kB/s] 12%|█▏        | 852k/6.91M [00:00<00:06, 965kB/s]  52%|█████▏    | 3.59M/6.91M [00:00<00:02, 1.36MB/s]100%|██████████| 6.91M/6.91M [00:00<00:00, 15.9MB/s]

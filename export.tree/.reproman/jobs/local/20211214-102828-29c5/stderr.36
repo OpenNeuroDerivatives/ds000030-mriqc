@@ -1,0 +1,14 @@
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-fMRIPrep_boldref.nii.gz
+  0%|          | 0.00/1.75M [00:00<?, ?B/s]  5%|▌         | 89.1k/1.75M [00:00<00:02, 672kB/s] 43%|████▎     | 751k/1.75M [00:00<00:01, 906kB/s] 100%|██████████| 1.75M/1.75M [00:00<00:00, 5.51MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-brain_mask.nii.gz
+  0%|          | 0.00/29.6k [00:00<?, ?B/s]100%|██████████| 29.6k/29.6k [00:00<00:00, 638kB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz
+  0%|          | 0.00/451k [00:00<?, ?B/s] 20%|█▉        | 89.1k/451k [00:00<00:00, 645kB/s]100%|██████████| 451k/451k [00:00<00:00, 1.94MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz
+  0%|          | 0.00/976k [00:00<?, ?B/s]  9%|▉         | 88.1k/976k [00:00<00:01, 670kB/s] 86%|████████▌ | 837k/976k [00:00<00:00, 911kB/s] 100%|██████████| 976k/976k [00:00<00:00, 3.65MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-CSF_probseg.nii.gz
+  0%|          | 0.00/5.49M [00:00<?, ?B/s]  2%|▏         | 89.1k/5.49M [00:00<00:07, 679kB/s] 15%|█▌        | 838k/5.49M [00:00<00:05, 923kB/s]  76%|███████▋  | 4.20M/5.49M [00:00<00:00, 1.30MB/s]100%|██████████| 5.49M/5.49M [00:00<00:00, 14.7MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-GM_probseg.nii.gz
+  0%|          | 0.00/7.57M [00:00<?, ?B/s]  1%|          | 77.8k/7.57M [00:00<00:12, 611kB/s] 11%|█         | 826k/7.57M [00:00<00:08, 832kB/s]  55%|█████▌    | 4.20M/7.57M [00:00<00:02, 1.18MB/s]100%|██████████| 7.57M/7.57M [00:00<00:00, 17.3MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-WM_probseg.nii.gz
+  0%|          | 0.00/6.91M [00:00<?, ?B/s]  1%|▏         | 87.0k/6.91M [00:00<00:10, 641kB/s] 12%|█▏        | 836k/6.91M [00:00<00:06, 871kB/s]  54%|█████▎    | 3.70M/6.91M [00:00<00:02, 1.23MB/s]100%|██████████| 6.91M/6.91M [00:00<00:00, 15.4MB/s]
