@@ -1,0 +1,53 @@
+Warning: Permanently added 'c116-203' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c117-002' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c117-033' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c144-042' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c144-043' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c144-133' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c144-134' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c159-081' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c159-082' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c160-031' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c160-032' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c174-134' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c174-141' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c183-113' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c183-114' (ED25519) to the list of known hosts.
+WARNING (12/14/21 19:17:21): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.3863636.hostlist.VcmKoUGn to get hosts
+starting job on c116-203
+starting job on c117-002
+starting job on c117-033
+starting job on c144-042
+starting job on c144-043
+starting job on c144-133
+starting job on c144-134
+starting job on c159-081
+starting job on c159-082
+starting job on c160-031
+starting job on c160-032
+starting job on c174-134
+starting job on c174-141
+starting job on c183-113
+starting job on c183-114
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+Terminated
