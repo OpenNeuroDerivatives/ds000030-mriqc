@@ -1,23 +1,0 @@
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-fMRIPrep_boldref.nii.gz
-  0%|          | 0.00/1.75M [00:00<?, ?B/s]  5%|▌         | 89.1k/1.75M [00:00<00:02, 670kB/s] 45%|████▍     | 785k/1.75M [00:00<00:01, 907kB/s] 100%|██████████| 1.75M/1.75M [00:00<00:00, 5.54MB/s]
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-brain_mask.nii.gz
-  0%|          | 0.00/29.6k [00:00<?, ?B/s]100%|██████████| 29.6k/29.6k [00:00<00:00, 661kB/s]
-Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz
-  0%|          | 0.00/451k [00:00<?, ?B/s] 19%|█▉        | 87.0k/451k [00:00<00:00, 662kB/s]100%|██████████| 451k/451k [00:00<00:00, 2.04MB/s]
-Process Process-2:
-Traceback (most recent call last):
-  File "/opt/conda/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
-    self.run()
-  File "/opt/conda/lib/python3.8/multiprocessing/process.py", line 108, in run
-    self._target(*self._args, **self._kwargs)
-  File "/opt/conda/lib/python3.8/site-packages/mriqc/cli/workflow.py", line 43, in build_workflow
-    retval["workflow"] = init_mriqc_wf()
-  File "/opt/conda/lib/python3.8/site-packages/mriqc/workflows/core.py", line 44, in init_mriqc_wf
-    workflow.add_nodes([fmri_qc_workflow()])
-  File "/opt/conda/lib/python3.8/site-packages/mriqc/workflows/functional.py", line 113, in fmri_qc_workflow
-    ema = epi_mni_align()
-  File "/opt/conda/lib/python3.8/site-packages/mriqc/workflows/functional.py", line 839, in epi_mni_align
-    get_template(
-  File "/opt/conda/lib/python3.8/site-packages/templateflow/api.py", line 104, in get
-    raise RuntimeError(msg)
-RuntimeError: Could not fetch template files: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000030-mriqc/code/containers/binds/HOME/.cache/templateflow/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz.
